@@ -46,7 +46,7 @@
   <div class="container">
     <h1 class="display-4 text-center">Events</h1>
     <p class="lead text-center"><span class="oi oi-chevron-right"></span>Web Craft Workshop Feb 15,16,17.</p>
-    <p class="lead text-center"> <span class="oi oi-chevron-right"></span>JNTUK   Zeigeist 2k18 Feb 18,19.</p>
+    <p class="lead text-center"> <span class="oi oi-chevron-right"></span>JNTUK Zeigeist 2k18 Feb 18,19,20.</p>
   </div>
 </div>
     
